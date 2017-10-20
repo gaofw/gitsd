@@ -6,6 +6,7 @@ public class Demo {
 
     private int x = 1;
 
+    private String pull ="";
 
     public String getTest() {
         return test;
@@ -22,4 +23,5 @@ public class Demo {
     public void setX(int x) {
         this.x = x;
     }
+
 }
