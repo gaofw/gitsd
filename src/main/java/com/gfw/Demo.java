@@ -8,6 +8,8 @@ public class Demo {
 
     private String pull ="";
 
+    private String pull2 = "";
+
     public String getTest() {
         return test;
     }
