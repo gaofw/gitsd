@@ -26,4 +26,19 @@ public class Demo {
         this.x = x;
     }
 
+    public String getPull() {
+        return pull;
+    }
+
+    public void setPull(String pull) {
+        this.pull = pull;
+    }
+
+    public String getPull2() {
+        return pull2;
+    }
+
+    public void setPull2(String pull2) {
+        this.pull2 = pull2;
+    }
 }
