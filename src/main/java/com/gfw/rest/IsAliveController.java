@@ -8,6 +8,6 @@ public class IsAliveController {
 
     @RequestMapping("isAlive")
     public String isAlive(){
-        return "1";
+        return "2";
     }
 }
